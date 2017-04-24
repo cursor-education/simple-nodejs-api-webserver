@@ -1,0 +1,21 @@
+{
+  "name": "simple-nodejs-api-webserver",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cursor-education/simple-nodejs-api-webserver.git"
+  },
+  "author": "CURSOR Education",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cursor-education/simple-nodejs-api-webserver/issues"
+  },
+  "homepage": "https://github.com/cursor-education/simple-nodejs-api-webserver#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.3",
+    "express": "^4.15.2"
+  }
+}
